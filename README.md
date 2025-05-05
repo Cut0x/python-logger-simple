@@ -1,5 +1,5 @@
 # Logger Module
-A simple <a href="[https://nodejs.org/en](https://pypi.org/project/python-logger-simple/)" target="_blank"><strong>Python</strong></a> module with configurable options.
+A simple <a href="https://pypi.org/project/python-logger-simple/" target="_blank"><strong>Python</strong></a> module with configurable options.
 
 # 📥 Installation
 ```bash
